@@ -1,7 +1,7 @@
 # Smart_irrigation_AICTE_SHELL
 AICTE INTERNSHIP
 
-📘 Additional Features Added to ipynb
+📘 Additional Features Added to ipynb (week 1)
 
 Feature Importance Plot (Random Forest)
 - Displays the most influential sensor features used by the Random Forest classifier.
